@@ -1,9 +1,9 @@
-- Udemy Courses Analysis
+# Udemy Courses Analysis
 
 In this Case Study, here we have Udemy courses data of 4 streams i.e Web-Development, Business Finance, Music Instruments and Graphic Design.
 
-- Analysis to increase the revenue for next quarterly earnings.
-- Provide the solutions for the same is the goal of this project.
+### Analysis to increase the revenue for next quarterly earnings.
+### Provide the solutions for the same is the goal of this project.
 
 
 You can find all the necessary data in the csv files provided.
@@ -16,9 +16,9 @@ You can find all the necessary data in the csv files provided.
   
 - Read the report - Analysis_Udemy-Courses-Report.pdf
 
-  The report will give the information regarding the business goal, work done by me and suggestions to the business problem.
+####  The report will give the information regarding the business goal, work done by me and suggestions to the business problem.
   
   
   
   Thankyou.
-  Ashutosh Rajput
+  ## Ashutosh Rajput
