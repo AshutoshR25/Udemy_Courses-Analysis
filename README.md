@@ -1,6 +1,10 @@
 # Udemy Courses Analysis
 
-In this Case Study, here we have Udemy courses data of 4 streams i.e Web-Development, Business Finance, Music Instruments and Graphic Design. The case study demostrates my abilities in using **Excel/Spreadsheets, Tableau, Report writing and Presentation skills.**
+In this Case Study, here we have Udemy courses data of 4 streams i.e Web-Development, Business Finance, Music Instruments and Graphic Design. The case study demostrates my abilities in using 
+- **Excel/Spreadsheets**
+- **Tableau**
+- **Report writing** 
+- **Presentation skills**
 
 ### Analysis to increase the revenue for next quarterly earnings.
 ### Provide the solutions for the same is the goal of this project.
